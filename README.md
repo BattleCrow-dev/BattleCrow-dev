@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=7f53ac&height=100&section=header"/></p>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&duration=2000&pause=1000&color=B18FFF&center=true&vCenter=true&width=600&lines=🎮+Game+Developer+and+Designer+🎮;🧩+Минимум+слов+—+максимум+игр+🧩" alt="typing banner" /></p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=WDXL+Lubrifont+TC&weight=400&size=32&duration=2000&pause=1000&color=B18FFF&center=true&vCenter=true&width=600&lines=🎮+Game+Developer+and+Designer+🎮;🧩+Минимум+слов+—+максимум+игр+🧩" alt="typing banner" /></p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" title="Unity" />&nbsp;&nbsp;
